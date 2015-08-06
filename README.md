@@ -1,2 +1,2 @@
 # koica-training-repo
-This is demostration repository
+Hi I'm Thanh. This is my demostration repo
